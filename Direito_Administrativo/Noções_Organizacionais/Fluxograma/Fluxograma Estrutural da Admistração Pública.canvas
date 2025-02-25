@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"138ff7c8c6bb6291","type":"text","text":"Estrutura da Administração Pública\n","x":-140,"y":-100,"width":250,"height":60,"color":"2"},
+		{"id":"d12e6fdaab339306","type":"text","text":"Administração Indireta\n","x":-140,"y":140,"width":250,"height":60,"color":"6"},
+		{"id":"cb78a66ac62e6da9","type":"text","text":"Entidades com personalidade jurídica própria, vinculadas ao Estado:","x":180,"y":110,"width":250,"height":120,"color":"6"},
+		{"id":"e0a54f3b27ed9cef","type":"text","text":"**Autarquias**, \n**Empresas Públicas**, **Fundações Públicas**, **Agências Executivas**","x":180,"y":260,"width":250,"height":144,"color":"6"},
+		{"id":"c24309d0fa22ad6c","type":"text","text":"Administração Direta","x":-140,"y":16,"width":250,"height":60,"color":"4"},
+		{"id":"5d1bd2c67356f24e","type":"text","text":"Órgãos que compõem diretamente o [[Estado.canvas|Estado]] (ex.: Ministérios, Secretarias).","x":180,"y":-70,"width":282,"height":116,"color":"4"}
+	],
+	"edges":[
+		{"id":"6c797326dc53ca9e","fromNode":"138ff7c8c6bb6291","fromSide":"bottom","toNode":"c24309d0fa22ad6c","toSide":"top"},
+		{"id":"ef26db98fd5021bb","fromNode":"c24309d0fa22ad6c","fromSide":"right","toNode":"5d1bd2c67356f24e","toSide":"left"},
+		{"id":"5caf7c43283a9306","fromNode":"c24309d0fa22ad6c","fromSide":"bottom","toNode":"d12e6fdaab339306","toSide":"top"},
+		{"id":"3ee5addd97ae9bfd","fromNode":"d12e6fdaab339306","fromSide":"right","toNode":"cb78a66ac62e6da9","toSide":"left"},
+		{"id":"4950058cbc6107a4","fromNode":"cb78a66ac62e6da9","fromSide":"bottom","toNode":"e0a54f3b27ed9cef","toSide":"top"}
+	]
+}

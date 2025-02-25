@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"647a9c42eab09a22","x":-280,"y":-100,"width":250,"height":60,"color":"4","type":"text","text":"Função Expressiva"},
+		{"id":"94a4a0b7bea4e53b","x":0,"y":-100,"width":100,"height":60,"type":"text","text":"Foco"},
+		{"id":"b1e78c6be81e9a45","x":140,"y":-100,"width":250,"height":60,"color":"4","type":"text","text":"Emissor"},
+		{"id":"a41ab0384d25d541","x":-280,"y":20,"width":250,"height":60,"color":"1","type":"text","text":"Função Apelativa"},
+		{"id":"22af6edf5d45e7ce","x":-6,"y":22,"width":106,"height":60,"type":"text","text":"Foco"},
+		{"id":"9ddb69beb45db467","x":140,"y":22,"width":250,"height":60,"color":"1","type":"text","text":"Receptor"},
+		{"id":"aae24dd547e17409","x":-155,"y":180,"width":250,"height":60,"color":"1","type":"text","text":"\"Cuidado! Produto Inflamável\""},
+		{"id":"f38614181967714d","x":130,"y":179,"width":250,"height":60,"type":"text","text":"Busca influenciar alguém"},
+		{"id":"cab568b338b9bd54","x":-340,"y":-268,"width":250,"height":60,"color":"4","type":"text","text":"\"Que livro maravilhoso! Me fez chorar.\""},
+		{"id":"aed67b0241676661","x":-110,"y":-400,"width":250,"height":60,"color":"4","type":"text","text":"\"Estou muito feliz!\""},
+		{"id":"a1dc57611254dacd","x":144,"y":-207,"width":250,"height":60,"color":"4","type":"text","text":"Ênfase nas emoções do receptor"},
+		{"id":"d5e7f6413efea8aa","x":-250,"y":360,"width":250,"height":60,"color":"3","type":"text","text":"Função Fática"},
+		{"id":"4a306ed08a595483","x":44,"y":359,"width":250,"height":60,"color":"3","type":"text","text":"\"Alô!? Está me ouvindo?\""},
+		{"id":"10bbc494be83be58","x":322,"y":358,"width":250,"height":60,"type":"text","text":"Certificar-se"}
+	],
+	"edges":[
+		{"id":"8ea97fe96e34701c","fromNode":"647a9c42eab09a22","fromSide":"right","toNode":"94a4a0b7bea4e53b","toSide":"left"},
+		{"id":"1e0767d676018089","fromNode":"94a4a0b7bea4e53b","fromSide":"right","toNode":"b1e78c6be81e9a45","toSide":"left"},
+		{"id":"5fa9d7fd392cc3a1","fromNode":"a41ab0384d25d541","fromSide":"right","toNode":"22af6edf5d45e7ce","toSide":"left"},
+		{"id":"efb3d220d152091f","fromNode":"22af6edf5d45e7ce","fromSide":"right","toNode":"9ddb69beb45db467","toSide":"left"},
+		{"id":"1d2ebce07a44fd97","fromNode":"a41ab0384d25d541","fromSide":"bottom","toNode":"aae24dd547e17409","toSide":"top"},
+		{"id":"76a29026c6adb31a","fromNode":"647a9c42eab09a22","fromSide":"top","toNode":"aed67b0241676661","toSide":"bottom"},
+		{"id":"7fd8ab05aa419247","fromNode":"aae24dd547e17409","fromSide":"right","toNode":"f38614181967714d","toSide":"left"},
+		{"id":"785fa51702f79604","fromNode":"647a9c42eab09a22","fromSide":"top","toNode":"cab568b338b9bd54","toSide":"bottom"},
+		{"id":"cd89bb9099695e9e","fromNode":"b1e78c6be81e9a45","fromSide":"top","toNode":"a1dc57611254dacd","toSide":"bottom"},
+		{"id":"705c2ab2f44f1683","fromNode":"d5e7f6413efea8aa","fromSide":"right","toNode":"4a306ed08a595483","toSide":"left"},
+		{"id":"58952b92cc4d5320","fromNode":"4a306ed08a595483","fromSide":"right","toNode":"10bbc494be83be58","toSide":"left"}
+	]
+}

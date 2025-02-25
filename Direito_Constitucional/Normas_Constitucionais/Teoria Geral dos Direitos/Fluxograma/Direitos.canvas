@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"ada682968df8be25","type":"text","text":"Direitos Fundamentais","x":-300,"y":280,"width":250,"height":60,"color":"6"},
+		{"id":"2a8d37a1f39bbcd2","type":"text","text":"Direito garantido por uma Constituição e seus cidadãos","x":0,"y":271,"width":250,"height":79,"color":"6"},
+		{"id":"454e1dd8f13fb5e0","x":0,"y":160,"width":250,"height":60,"color":"6","type":"text","text":"liberdade de expressão no Brasil"},
+		{"id":"78aaa71c012c948e","type":"text","text":"Direitos do Homem","x":-300,"y":-59,"width":250,"height":60,"color":"4"},
+		{"id":"4cfc1347f13fa092","type":"text","text":"direito a vida","x":0,"y":-180,"width":250,"height":60,"color":"4"},
+		{"id":"24b9ee4e45d5e21a","type":"text","text":"válido para TODOS os seres humanos","x":0,"y":-63,"width":250,"height":69,"color":"4"},
+		{"id":"90fb0befbdc8fe91","x":280,"y":-56,"width":250,"height":60,"color":"4","type":"text","text":"independente do reconhecimento Estatal"},
+		{"id":"0ee54e17e451671c","x":280,"y":281,"width":250,"height":60,"color":"6","type":"text","text":"protegidos por um Estado"},
+		{"id":"970d1f684af03c01","x":-300,"y":544,"width":250,"height":60,"color":"5","type":"text","text":"Direitos Humanos"},
+		{"id":"024387f69923a4bb","x":0,"y":513,"width":250,"height":123,"color":"5","type":"text","text":"reconhecidos internacionalmente por tratados e convenções"},
+		{"id":"0307b323ed9a3e2a","x":-2,"y":400,"width":250,"height":80,"color":"5","type":"text","text":"Declaração Universal dos Direitos Humanos da ONU"}
+	],
+	"edges":[
+		{"id":"08688daa43cd7521","fromNode":"78aaa71c012c948e","fromSide":"right","toNode":"24b9ee4e45d5e21a","toSide":"left"},
+		{"id":"f74badfa7d5a24fb","fromNode":"24b9ee4e45d5e21a","fromSide":"top","toNode":"4cfc1347f13fa092","toSide":"bottom"},
+		{"id":"3eccc26197fd5a9c","fromNode":"ada682968df8be25","fromSide":"right","toNode":"2a8d37a1f39bbcd2","toSide":"left"},
+		{"id":"3d708df2757e50ae","fromNode":"2a8d37a1f39bbcd2","fromSide":"top","toNode":"454e1dd8f13fb5e0","toSide":"bottom"},
+		{"id":"3f1c1093665adff3","fromNode":"24b9ee4e45d5e21a","fromSide":"right","toNode":"90fb0befbdc8fe91","toSide":"left"},
+		{"id":"34965a21dcdb944c","fromNode":"2a8d37a1f39bbcd2","fromSide":"right","toNode":"0ee54e17e451671c","toSide":"left"},
+		{"id":"ac08dac0da21febd","fromNode":"970d1f684af03c01","fromSide":"right","toNode":"024387f69923a4bb","toSide":"left"},
+		{"id":"1c0d84d04695c33c","fromNode":"024387f69923a4bb","fromSide":"top","toNode":"0307b323ed9a3e2a","toSide":"bottom"}
+	]
+}

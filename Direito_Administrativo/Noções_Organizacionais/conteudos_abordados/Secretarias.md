@@ -1,0 +1,1 @@
+ No âmbito estadual ou municipal, têm funções semelhantes aos ministérios, mas em uma escala menor.

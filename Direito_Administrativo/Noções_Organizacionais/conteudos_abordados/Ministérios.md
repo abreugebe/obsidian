@@ -1,0 +1,1 @@
+ São órgãos centrais que **coordenam políticas públicas em diferentes áreas** como Educação, Saúde, Economia, etc.

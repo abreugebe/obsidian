@@ -1,0 +1,1 @@
+Públicas - Criadas para realizar atividades específicas, geralmente de natureza cultural, científica ou assistencial, ==possuem personalidade jurídica de direito público ou privado==. Exemplos incluem a Fundação Oswaldo Cruz (Fiocruz).

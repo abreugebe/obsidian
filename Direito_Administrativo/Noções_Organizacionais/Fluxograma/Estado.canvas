@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"57b561f66ad7550a","type":"text","text":"            Estado\n","x":-490,"y":-120,"width":250,"height":60,"color":"#ff0000"},
+		{"id":"6f132c50690c7a9b","type":"text","text":"- **Soberania**: O Estado possui ==autoridade suprema== sobre seu território, sem interferência externa.","x":120,"y":-340,"width":250,"height":160,"color":"4"},
+		{"id":"f02d21ac89e816de","type":"text","text":"- **Território**: Possui um espaço geográfico definido e ==delimitado== onde exerce sua jurisdição.","x":120,"y":-60,"width":250,"height":160,"color":"3"},
+		{"id":"f6c384970cdef1ad","type":"text","text":"- **Coerção**: Capacidade de impor suas decisões através de meios legais, incluindo a força se necessário.","x":80,"y":224,"width":250,"height":207,"color":"6"},
+		{"id":"9f1fd1ef6ded3d67","type":"text","text":"- **Governo**: Instituição que exerce o poder político e administrativo, ==organizando e administrando os recursos e serviços públicos.==","x":-280,"y":87,"width":254,"height":240,"color":"6"},
+		{"id":"3b22ffa312a3b712","type":"text","text":"- **Poder Legislativo**: Órgão responsável pela ==criação, alteração e revogação das leis.==","x":-1085,"y":-40,"width":271,"height":140,"color":"5"},
+		{"id":"fe60000cc1ee264b","type":"text","text":"- **Poder Executivo**: Responsável pela ==administração pública, execução das leis e pela condução da política interna e externa do Estado.==","x":-1085,"y":180,"width":270,"height":215,"color":"5"},
+		{"id":"4f4ca7fb496f9dc1","type":"text","text":"- **Poder Judiciário**: Órgão que ==interpreta e aplica as leis, resolvendo conflitos e garantindo justiça.==","x":-1075,"y":480,"width":250,"height":161,"color":"5"},
+		{"id":"cac97dea24f6fe24","type":"text","text":"- - **Permanência**: O Estado tem uma ==existência duradoura, transcendendo os governos e mudanças políticas.==","x":-740,"y":20,"width":320,"height":195,"color":"2"},
+		{"id":"9bd1f21d1f6f0f36","type":"text","text":"- **População**: Há uma comunidade de pessoas que vivem dentro desse território e que são governadas pelas leis do Estado.","x":-627,"y":-440,"width":274,"height":200,"color":"#005c4d"},
+		{"id":"9085f4073c6f1a2c","type":"text","text":"3 PODERES","x":-1075,"y":-220,"width":250,"height":50,"color":"5"},
+		{"id":"5274d2fffffaf58b","type":"text","text":"- **Organização Administrativa**: Estrutura hierárquica e funcional para a gestão dos serviços públicos, incluindo ministérios, secretarias, agências, etc.","x":-280,"y":-480,"width":300,"height":220,"color":"#5f3535"}
+	],
+	"edges":[
+		{"id":"29a705099867ba42","fromNode":"57b561f66ad7550a","fromSide":"right","toNode":"6f132c50690c7a9b","toSide":"left"},
+		{"id":"e6299abd3522b350","fromNode":"57b561f66ad7550a","fromSide":"right","toNode":"f02d21ac89e816de","toSide":"left"},
+		{"id":"3334d4569cac69f8","fromNode":"57b561f66ad7550a","fromSide":"top","toNode":"9bd1f21d1f6f0f36","toSide":"bottom"},
+		{"id":"6972823e1c253c69","fromNode":"57b561f66ad7550a","fromSide":"bottom","toNode":"9f1fd1ef6ded3d67","toSide":"top"},
+		{"id":"68620d1e5cceb913","fromNode":"57b561f66ad7550a","fromSide":"left","toNode":"9085f4073c6f1a2c","toSide":"right"},
+		{"id":"0bb83676765983ba","fromNode":"9085f4073c6f1a2c","fromSide":"bottom","toNode":"3b22ffa312a3b712","toSide":"top"},
+		{"id":"e82de9acfa51defd","fromNode":"3b22ffa312a3b712","fromSide":"bottom","toNode":"fe60000cc1ee264b","toSide":"top"},
+		{"id":"35471ae20932768a","fromNode":"fe60000cc1ee264b","fromSide":"bottom","toNode":"4f4ca7fb496f9dc1","toSide":"top"},
+		{"id":"6229969739264c74","fromNode":"9f1fd1ef6ded3d67","fromSide":"right","toNode":"f6c384970cdef1ad","toSide":"left"},
+		{"id":"082f064a755a38fb","fromNode":"57b561f66ad7550a","fromSide":"left","toNode":"cac97dea24f6fe24","toSide":"top"},
+		{"id":"13e6dbd057bf016a","fromNode":"57b561f66ad7550a","fromSide":"top","toNode":"5274d2fffffaf58b","toSide":"bottom"}
+	]
+}

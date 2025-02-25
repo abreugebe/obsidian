@@ -1,0 +1,5 @@
+- [[Coesão e Coerência]]
+- [[Funções de Linguagem]]
+- [[Tipos de variação linguística]]
+- [[Tipologia e Gêneros Textuais]]
+- 

@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"782e3a0c45ec0ca7","type":"text","text":"Variação Diacrônica","x":-345,"y":-280,"width":250,"height":60,"color":"2"},
+		{"id":"38495ad2c0c2fbee","type":"text","text":"Diatópica","x":-345,"y":-160,"width":160,"height":60,"color":"4"},
+		{"id":"fd3f970ac5943876","type":"text","text":"Geográfica","x":-140,"y":-160,"width":142,"height":60,"color":"4"},
+		{"id":"baac579d572f46e2","type":"text","text":"Sotaque","x":65,"y":-160,"width":135,"height":60,"color":"4"},
+		{"id":"a525dadf91de53c2","type":"text","text":"Diastrática","x":-345,"y":0,"width":160,"height":60,"color":"6"},
+		{"id":"051c3f7fded5519c","type":"text","text":"Social","x":-140,"y":0,"width":110,"height":60,"color":"6"},
+		{"id":"be0a93b3958f230e","type":"text","text":"variam em determinados grupos socioeconômicos","x":9,"y":2,"width":250,"height":60,"color":"6"},
+		{"id":"f9f135a644a54a9f","type":"text","text":"Diafásica","x":-345,"y":160,"width":160,"height":60,"color":"5"},
+		{"id":"bfdc57818695ed19","type":"text","text":"Adaptação a ambientes","x":-146,"y":160,"width":232,"height":60,"color":"5"},
+		{"id":"fa235ee16e8b35f7","type":"text","text":"No trabalho falamos diferentes do que em casa","x":105,"y":161,"width":250,"height":60,"color":"5"},
+		{"id":"581e6710e4e483e2","type":"text","text":"Histórica","x":-58,"y":-275,"width":144,"height":50,"color":"2"},
+		{"id":"7688269c1c671493","x":135,"y":-295,"width":250,"height":91,"color":"2","type":"text","text":"Nos mostra como a língua mudou ao passar dos anos"}
+	],
+	"edges":[
+		{"id":"634996289b4ea87c","fromNode":"782e3a0c45ec0ca7","fromSide":"right","toNode":"581e6710e4e483e2","toSide":"left"},
+		{"id":"c31bc4c2d2ceacd0","fromNode":"38495ad2c0c2fbee","fromSide":"right","toNode":"fd3f970ac5943876","toSide":"left"},
+		{"id":"c6e3e7f6d5c22f26","fromNode":"fd3f970ac5943876","fromSide":"right","toNode":"baac579d572f46e2","toSide":"left"},
+		{"id":"e300f9f15df50990","fromNode":"a525dadf91de53c2","fromSide":"right","toNode":"051c3f7fded5519c","toSide":"left"},
+		{"id":"8f2f08aee2ef40c0","fromNode":"051c3f7fded5519c","fromSide":"right","toNode":"be0a93b3958f230e","toSide":"left"},
+		{"id":"73baea0c8fd862f6","fromNode":"f9f135a644a54a9f","fromSide":"right","toNode":"bfdc57818695ed19","toSide":"left"},
+		{"id":"aa969f467ffb5992","fromNode":"bfdc57818695ed19","fromSide":"right","toNode":"fa235ee16e8b35f7","toSide":"left"},
+		{"id":"f3a1afde8892b0c3","fromNode":"581e6710e4e483e2","fromSide":"right","toNode":"7688269c1c671493","toSide":"left"}
+	]
+}

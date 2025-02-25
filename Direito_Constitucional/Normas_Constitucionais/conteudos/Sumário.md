@@ -1,0 +1,3 @@
+- [[Eficácia Plena]]
+- [[Eficácia Contida]]
+- [[Eficácia Limitada]]
